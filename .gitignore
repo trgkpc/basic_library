@@ -1,0 +1,7 @@
+.idea
+build*
+.vscode
+.vscode/*
+__pycache__
+*swp
+obsolete
